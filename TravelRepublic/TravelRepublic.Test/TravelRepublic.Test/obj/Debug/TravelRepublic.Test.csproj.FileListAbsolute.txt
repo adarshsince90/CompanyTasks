@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\VS 17\TravelRepublic\TravelRepublic.Test\TravelRepublic.Test\bin\Debug\TravelRepublic.Test.exe
+D:\Visual Studio Projects\VS 17\TravelRepublic\TravelRepublic.Test\TravelRepublic.Test\bin\Debug\TravelRepublic.Test.exe.config
+D:\Visual Studio Projects\VS 17\TravelRepublic\TravelRepublic.Test\TravelRepublic.Test\obj\Debug\TravelRepublic.Test.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\VS 17\TravelRepublic\TravelRepublic.Test\TravelRepublic.Test\obj\Debug\TravelRepublic.Test.exe
+D:\Visual Studio Projects\VS 17\TravelRepublic\TravelRepublic.Test\TravelRepublic.Test\obj\Debug\TravelRepublic.Test.pdb
+D:\Visual Studio Projects\VS 17\TravelRepublic\TravelRepublic.Test\TravelRepublic.Test\bin\Debug\TravelRepublic.Test.pdb
+D:\Visual Studio Projects\VS 17\TravelRepublic\TravelRepublic.Test\TravelRepublic.Test\obj\Debug\TravelRepublic.Test.csprojResolveAssemblyReference.cache
